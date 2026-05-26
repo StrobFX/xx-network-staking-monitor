@@ -9,6 +9,17 @@ action may be required.
 
 This project is released under the [MIT License](LICENSE).
 
+## Support This Project
+
+If you find this tool useful and would like to support its development, tips
+in XX are welcome at:
+
+```text
+6WrCReM86qyZdKwcGHmGxwQ6wxz5NTowNkUe5zk59UVWUbjF
+```
+
+This is the project's intentionally public tip address.
+
 ## Features
 
 - Average staking rewards per account over the last 30 eras by default.
