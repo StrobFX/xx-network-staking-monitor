@@ -1,0 +1,10 @@
+[
+  {
+    "label": "main-wallet",
+    "address": "PASTE_YOUR_XX_NETWORK_ADDRESS_HERE"
+  },
+  {
+    "label": "optional-second-wallet",
+    "address": "PASTE_ANOTHER_XX_NETWORK_ADDRESS_HERE_OR_REMOVE_THIS_OBJECT"
+  }
+]
