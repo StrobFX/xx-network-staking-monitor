@@ -18,8 +18,16 @@ in XX are welcome at the public on-chain identity **StrobFX Tips**:
 6WrCReM86qyZdKwcGHmGxwQ6wxz5NTowNkUe5zk59UVWUbjF
 ```
 
-You can verify the `StrobFX Tips` identity in the xx Network explorer before
-sending a tip. This is the project's intentionally public tip address.
+[Verify `StrobFX Tips` in the xx Network explorer](https://explorer.xx.network/accounts/6WrCReM86qyZdKwcGHmGxwQ6wxz5NTowNkUe5zk59UVWUbjF)
+
+Scan the QR code with an xx Network-compatible wallet to enter the recipient
+address:
+
+![QR code for the StrobFX Tips xx Network address](assets/strobfx-tips-qr.png)
+
+Before sending, confirm that the wallet shows the same address and send only
+native XX on xx Network. This is the project's intentionally public tip
+address.
 
 ## Features
 
