@@ -45,6 +45,8 @@ statistics can lag behind the current chain state.
   library.
 - Windows PowerShell for the optional email-configuration and scheduled-run
   helper scripts.
+- A Gmail account with two-step verification and a Google app password is
+  required only if you want email alerts.
 
 ## Add Your Accounts
 
