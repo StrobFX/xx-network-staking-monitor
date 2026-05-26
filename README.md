@@ -12,13 +12,14 @@ This project is released under the [MIT License](LICENSE).
 ## Support This Project
 
 If you find this tool useful and would like to support its development, tips
-in XX are welcome at:
+in XX are welcome at the public on-chain identity **StrobFX Tips**:
 
 ```text
 6WrCReM86qyZdKwcGHmGxwQ6wxz5NTowNkUe5zk59UVWUbjF
 ```
 
-This is the project's intentionally public tip address.
+You can verify the `StrobFX Tips` identity in the xx Network explorer before
+sending a tip. This is the project's intentionally public tip address.
 
 ## Features
 
